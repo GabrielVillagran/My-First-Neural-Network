@@ -1,2 +1,2 @@
 # My-First-Neural-Network
-This is my first Neural Network... so easy isn't it 
+Mi primer red neuronal haciendo uso de colab y algunos algoritmos de entrenamiento en TF y Keras.
